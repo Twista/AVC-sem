@@ -1,4 +1,3 @@
-AVC-sem
-=======
-
-MVC in C++ - school project
+AVC - semestralní práce
+---------------
+semestrální práce do předmětu AVC (Algoritmy v C)

@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1325766323 source:c:\users\twista\documents\_c\avc-sem\main.cpp
+	<clocale>
+	<locale>
+	<cstdlib>
+	<iostream>
+	<string>
+	"functions.h"
+	"Racer.h"
+	"Display.h"
+	"TScoreboard.h"
+	"Controller.h"
+
+1326301195 c:\users\twista\documents\_c\avc-sem\tscoreboard.h
+	"Display.h"
+	"Racer.h"
+	<vector>
+
+1326301135 c:\users\twista\documents\_c\avc-sem\racer.h
+	<vector>
+	<string>
+	<iostream>
+
+1326314185 c:\users\twista\documents\_c\avc-sem\controller.h
+	"TScoreboard.h"
+	"Display.h"
+	<string>
+
+1326314410 c:\users\twista\documents\_c\avc-sem\display.h
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+
+1326302221 source:c:\users\twista\documents\_c\avc-sem\tscoreboard.cpp
+	"TScoreboard.h"
+	"Racer.h"
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+
+1326302682 source:c:\users\twista\documents\_c\avc-sem\display.cpp
+	"Display.h"
+	<string>
+
+1326303083 source:c:\users\twista\documents\_c\avc-sem\controller.cpp
+	"Display.h"
+	"Controller.h"
+	<string>
+	"conio.h"
+	"functions.h"
+
+1325846029 c:\users\twista\documents\_c\avc-sem\functions.h
+
